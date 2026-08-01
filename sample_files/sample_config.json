@@ -1,0 +1,22 @@
+{
+  "report_id": "RPT-2026-001",
+  "generated_at": "2026-08-01T12:00:00Z",
+  "department": "Engineering",
+  "summary": {
+    "total_tickets": 142,
+    "resolved": 128,
+    "open": 10,
+    "overdue": 4
+  },
+  "top_assignees": [
+    {"name": "Alice", "resolved": 35},
+    {"name": "Bob", "resolved": 28},
+    {"name": "Charlie", "resolved": 22}
+  ],
+  "priorities": {
+    "critical": 5,
+    "high": 18,
+    "medium": 67,
+    "low": 52
+  }
+}
