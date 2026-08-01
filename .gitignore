@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+watch_dir/processed/
+watch_dir/errors/
+watch_dir/summary.log
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
