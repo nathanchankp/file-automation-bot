@@ -1,0 +1,4 @@
+watch_dir: ./watch_dir
+processed_dir: ./watch_dir/processed
+errors_dir: ./watch_dir/errors
+webhook_url: ""
